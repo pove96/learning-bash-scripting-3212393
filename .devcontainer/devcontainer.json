@@ -1,11 +1,11 @@
 {
-  "extensions": [
-	"GitHub.github-vscode-theme",
-	"shakram02.bash-beautify",
-	"rogalmic.bash-debug",
-	"mads-hartmann.bash-ide-vscode"
-],
-  "onCreateCommand" : "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
+	"extensions": [
+		"GitHub.github-vscode-theme",
+		"shakram02.bash-beautify",
+		"rogalmic.bash-debug",
+		"mads-hartmann.bash-ide-vscode"
+	],
+	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 }
-
+// One more comment
 // DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
